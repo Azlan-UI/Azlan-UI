@@ -16,20 +16,6 @@ Building intelligent, production-grade applications at the intersection of **LLM
 
 ---
 
-## 🎨 Banner Concepts (choose one, generate separately)
-
-> These are *descriptions* for a designer or an AI image tool — no image is generated here.
-
-**Concept 1 — "Minimal Terminal"**
-A dark charcoal (#0D1117, matches GitHub dark mode) banner with a subtle monospace terminal window in the corner showing a single line like `$ engineer.build(ideas) → impact`. Thin geometric grid lines in the background at low opacity. No gradients, no clutter — just typography and negative space.
-
-**Concept 2 — "Neural Blueprint"**
-A muted navy background with a faint, thin-line illustration of a neural network / node graph in one corner (like an architecture diagram, not a flashy AI cliché). Your name in a clean sans-serif (e.g., Inter or Space Grotesk), headline beneath it in a lighter weight.
-
-**Concept 3 — "Engineering Notebook"**
-Off-white or soft gray background resembling graph paper, with a single accent color (deep blue or forest green) used sparingly for your name and a short code-style tagline. Feels precise and understated — like a page from a systems design notebook.
-
----
 
 ## 🧭 About Me
 
